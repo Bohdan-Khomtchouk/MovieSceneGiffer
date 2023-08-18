@@ -1,6 +1,6 @@
 # MovieSceneGiffer
 
-A simple <50 LOC Python script that automates the creation of GIFs from movies. This script allows users to specify a start time and duration for both the movie and its subtitles, then generates a GIF from that portion of the movie with the relevant subtitles burned in.
+A simple <50 LOC Python script that automates the creation of GIFs from movies. This script allows users to specify a start time and duration for both the movie and its subtitles, then generates a GIF from that portion of the movie with the relevant subtitles burned in. For context: https://twitter.com/bohdanome/status/1692357945428734046?s=20
 
 ## Prerequisites
 
